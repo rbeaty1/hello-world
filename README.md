@@ -1,2 +1,2 @@
 # hello-world
-school file
+My first repository
